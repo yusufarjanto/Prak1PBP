@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prak1</string>
+    <string name="status_active">Status : Active</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="input_name">Input name</string>
+    <string name="open_from_explicit_intent">Open from (Explicit Intent)</string>
+    <string name="open_website_implicit_intent">Open Website (Implicit Intent)</string>
+</resources>
