@@ -6,4 +6,5 @@
     <string name="input_name">Input name</string>
     <string name="open_from_explicit_intent">Open from (Explicit Intent)</string>
     <string name="open_website_implicit_intent">Open Website (Implicit Intent)</string>
+    <string name="profile_photo">Profile Photo</string>
 </resources>
